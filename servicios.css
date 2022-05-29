@@ -1,0 +1,325 @@
+.mediaViewInfo {
+	--web-view-name: servicios;
+	--web-view-id: servicios;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: servicios;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#servicios {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: servicios;
+	--web-view-id: servicios;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Grupo_337 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_68 {
+	fill: rgba(252,195,2,1);
+}
+.Rectngulo_68 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_84 {
+	position: absolute;
+	width: 358.877px;
+	height: 524.899px;
+	left: 88.663px;
+	top: 322px;
+	overflow: visible;
+}
+#Grupo_83 {
+	position: absolute;
+	width: 358.877px;
+	height: 524.899px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#plotterpsd {
+	position: absolute;
+	width: 470.944px;
+	height: 408.857px;
+	left: 596.458px;
+	top: 402.828px;
+	overflow: visible;
+}
+#plotter {
+	position: absolute;
+	width: 470.944px;
+	height: 408.857px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#dobladorapsd {
+	position: absolute;
+	width: 359.899px;
+	height: 239.651px;
+	left: 1106px;
+	top: 391.947px;
+	overflow: visible;
+}
+#dobladora {
+	position: absolute;
+	width: 359.899px;
+	height: 239.651px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#dobladorapsd_cn {
+	position: absolute;
+	width: 359.899px;
+	height: 239.651px;
+	left: 1504px;
+	top: 391.947px;
+	overflow: visible;
+}
+#dobladora_co {
+	position: absolute;
+	width: 359.899px;
+	height: 239.651px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#INICIO_cp {
+	mix-blend-mode: screen;
+	left: 667.41px;
+	top: 32.76px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#NOSOTROS_cq {
+	mix-blend-mode: screen;
+	left: 933.548px;
+	top: 32.76px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: quienes_somos.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#SERVICIOS_cr {
+	mix-blend-mode: screen;
+	left: 1271.651px;
+	top: 32.76px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#CONTACTOS_cs {
+	mix-blend-mode: screen;
+	left: 1591.323px;
+	top: 32.76px;
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: contactos.html;
+	cursor: pointer;
+	line-height: 49px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(255,255,255,1);
+}
+#Lnea_9 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_9 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 48.66px;
+	left: 875.47px;
+	top: 43.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_10 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_10 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 48.66px;
+	left: 1253.699px;
+	top: 43.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_11 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 48.66px;
+	left: 1563.159px;
+	top: 43.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID3487424-02-02_cw {
+	position: absolute;
+	width: 518px;
+	height: 124px;
+	left: 31px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Impresin_Litografico {
+	left: 80px;
+	top: 867px;
+	position: absolute;
+	overflow: visible;
+	width: 369px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Antenna;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(255,255,255,1);
+}
+#Impresin_Gran_Formato {
+	left: 598.012px;
+	top: 867px;
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Antenna;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(255,255,255,1);
+}
+#Aviso_en_Acrilico {
+	left: 1172.533px;
+	top: 867px;
+	position: absolute;
+	overflow: visible;
+	width: 285px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Antenna;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 61px;
+	color: rgba(255,255,255,1);
+}
+#Servicio_Estampado {
+	left: 1528.152px;
+	top: 867px;
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Antenna;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 61px;
+	color: rgba(255,255,255,1);
+}

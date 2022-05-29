@@ -1,0 +1,309 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Componente_1__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_1525 {
+	fill: rgba(252,195,2,1);
+}
+.Trazado_1525 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_66 {
+	fill: rgba(218,172,0,1);
+}
+.Rectngulo_66 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 145.751px;
+	left: 0px;
+	top: 0px;
+}
+#INICIO {
+	mix-blend-mode: screen;
+	left: 667.41px;
+	top: 41.76px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#NOSOTROS {
+	mix-blend-mode: screen;
+	left: 933.548px;
+	top: 41.76px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: quienes_somos.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#Lnea_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_3 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 48.66px;
+	left: 875.47px;
+	top: 52.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID3487424-02-02 {
+	position: absolute;
+	width: 518px;
+	height: 124px;
+	left: 31px;
+	top: 22px;
+	overflow: visible;
+}
+#Grupo_340 {
+	position: absolute;
+	width: 920px;
+	height: 411px;
+	left: 115px;
+	top: 426px;
+	overflow: visible;
+}
+#Parametrizamos_y_posicionamos_ {
+	left: 20px;
+	top: 255px;
+	position: absolute;
+	overflow: visible;
+	width: 872px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Grupo_338 {
+	position: absolute;
+	width: 920px;
+	height: 228px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_339 {
+	position: absolute;
+	width: 920px;
+	height: 228px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#DE_REDES_SOCIALES {
+	left: 0px;
+	top: 115px;
+	position: absolute;
+	overflow: visible;
+	width: 921px;
+	white-space: nowrap;
+	line-height: 82px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Antenna;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#ADMINISTRACIN {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 906px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Antenna;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_de_desplazamiento_2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 276px;
+	height: 59px;
+	left: 1267.651px;
+	top: 41.76px;
+	overflow: hidden;
+}
+#SERVICIOS {
+	mix-blend-mode: screen;
+	left: 4px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: servicios.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_de_desplazamiento_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 305px;
+	height: 58px;
+	left: 1586.323px;
+	top: 41.76px;
+	overflow: hidden;
+}
+#CONTACTOS {
+	mix-blend-mode: screen;
+	left: 5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: contactos.html;
+	cursor: pointer;
+	line-height: 49px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(255,255,255,1);
+}
+#Lnea_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_4 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 48.66px;
+	left: 1253.699px;
+	top: 52.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_5 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 48.66px;
+	left: 1563.159px;
+	top: 52.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PERRO {
+	position: absolute;
+	width: 613px;
+	height: 883px;
+	left: 1222px;
+	top: 197px;
+	overflow: visible;
+}
